@@ -2,7 +2,7 @@
 
     h1{
         color: rgb(0,76,153);
-        font-size: 2em;
+        font-size: 4em;
         margin: 1em, 0em, 1em, 0em;
         text-align: center;
         font-family: sans-serif;
@@ -11,7 +11,7 @@
 
     h2{
         color: rgb(96,96,96);
-        font-size: 1em;
+        font-size: 3em;
         margin: 2em;
         font-family: sans-serif;
         text-align: center;
@@ -19,7 +19,7 @@
 
     h3{
         color: rgb(51,51,255);
-        margin: 0.5em;
+        margin: 2em;
         font-size: 0.5em;
         font-family: sans-serif;
     }
