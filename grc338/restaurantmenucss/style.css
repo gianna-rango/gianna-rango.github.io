@@ -12,7 +12,6 @@
     h2{
         color: rgb(96,96,96);
         font-size: 3em;
-        margin: 2em;
         font-family: sans-serif;
         text-align: center;
     }
@@ -41,5 +40,5 @@
     }
 
     body{
-        background-color: rgb(224,224,224);
+        background-color: rgb(204,204,255);
     }
