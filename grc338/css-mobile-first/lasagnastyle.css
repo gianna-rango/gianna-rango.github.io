@@ -52,7 +52,7 @@ h3 {
 p {
     color: black;
     font-family: hero-new-hairline,sans-serif;
-    font-weight: 100;
+    font-weight: 150;
     font-style: normal;
     font-size: 1em;
     line-height: 1em;
@@ -62,7 +62,7 @@ p {
 h6 {
     color: rgb(177, 107, 107);
     font-family: hero-new-hairline,sans-serif;
-    font-weight: 100;
+    font-weight: 150;
     font-style: normal;
     font-size: .75em;
     line-height: 1em;
@@ -73,7 +73,7 @@ h6 {
 ul{
     color: black;
     font-family: hero-new-hairline,sans-serif;
-    font-weight: 100;
+    font-weight: 150;
     font-style: normal;
     font-size: 1em;
     line-height: 2em;
@@ -85,7 +85,7 @@ ul{
 figcaption {
     color: black;
     font-family: hero-new-hairline,sans-serif;
-    font-weight: 100;
+    font-weight: 150;
     font-style: normal;
     font-size: .75em;
     line-height: 1em;
@@ -96,7 +96,7 @@ figcaption {
 ol {
     color: black;
     font-family: hero-new-hairline,sans-serif;
-    font-weight: 100;
+    font-weight: 150;
     font-style: normal;
     font-size: 1em;
     line-height: 1em;
