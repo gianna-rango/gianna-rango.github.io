@@ -68,6 +68,12 @@ nav ul li a{
     color: rgb(160, 160, 160);
 }
 
+@media screen and (min-width: 45em) {
+    html{
+        max-width: 55em;
+        margin: auto;
+        }
+
 nav ul li a:hover{
     color: rgb(96, 96, 96)
 }
